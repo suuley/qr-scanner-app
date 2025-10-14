@@ -3,50 +3,50 @@
       {
         "id": "CAR-1234",
         "make": "Toyota",
-        "model": "Camry",
-        "year": 2022,
-        "owner": "John Smith",
-        "color": "Silver",
+        "model": "Prado",
+        "sanad": 2022,
+        "milkiile": "Burhan Dhalbas",
+        "midab": "Silver",
         "vin": "4T1B11HK5JU254316",
-        "insurance": "Geico",
-        "lastService": "2024-01-15",
-        "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=600&h=400&fit=crop"
+        "insurance": "Balo Damiye",
+        "lastService": "2004-01-15",
+        "image": "./images/prado.jpeg"
       },
       {
         "id": "CAR-5678",
         "make": "Honda",
         "model": "Civic",
-        "year": 2021,
-        "owner": "Sarah Johnson",
-        "color": "Blue",
+        "sanad": 2021,
+        "milkiile": "Sahal Jamac",
+        "midab": "Buluug",
         "vin": "2HGFC2F5XLH555998",
-        "insurance": "State Farm",
+        "insurance": "Badbadie",
         "lastService": "2024-02-20",
-        "image": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=600&h=400&fit=crop"
+        "image": "./images/civic.webp"
       },
       {
         "id": "CAR-9012",
-        "make": "Ford",
-        "model": "F-150",
+        "make": "Toyota",
+        "model": "Cross",
         "year": 2023,
-        "owner": "Mike Davis",
-        "color": "Black",
+        "milkiile": "Magafe Baaba",
+        "color": "Madow",
         "vin": "1FTFW1E83MFA12345",
         "insurance": "Allstate",
         "lastService": "2024-03-10",
-        "image": "https://images.unsplash.com/photo-1563720223485-41b7e8e96e9f?w=600&h=400&fit=crop"
+        "image": "./images/cross.jpg"
       },
       {
         "id": "CAR-3456",
         "make": "Tesla",
         "model": "Model 3",
         "year": 2023,
-        "owner": "Emily Wilson",
-        "color": "Red",
+        "milkiile": "Fadumo Geyr",
+        "color": "Caddaan",
         "vin": "5YJ3E1EA0PF123456",
         "insurance": "Tesla Insurance",
         "lastService": "2024-03-01",
-        "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=600&h=400&fit=crop"
+        "image": "./images/tesla.jpeg"
       }
     ]
   }
