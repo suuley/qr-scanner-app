@@ -143,7 +143,6 @@ export default {
   components: {
     QrcodeStream
   },
-  emits: ['close'], // ✅ ADD THIS LINE
   data() {
     return {
       vehicleId: '',
